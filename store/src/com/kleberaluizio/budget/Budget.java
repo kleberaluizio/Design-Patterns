@@ -1,4 +1,4 @@
-package com.kleberaluizio;
+package com.kleberaluizio.budget;
 
 import java.math.BigDecimal;
 
